@@ -3,6 +3,6 @@
 int main() {
 	printf("This is revised first line\n");
 	printf("This is revised second line\n");
-	printf("This is original third line\n");
+	printf("This is revised third line\n");
 	return 0;
 }
